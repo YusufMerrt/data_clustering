@@ -1,0 +1,30 @@
+# Ürün Eşleştirme Projesi - Gerekli Kütüphaneler
+
+# Temel veri işleme
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Görselleştirme
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Deep Learning ve NLP
+sentence-transformers>=2.2.0
+torch>=1.12.0
+transformers>=4.20.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+umap-learn>=0.5.3
+
+# Clustering ve metrikler
+scipy>=1.9.0
+
+# Diğer yardımcı kütüphaneler
+tqdm>=4.64.0
+
+# Yeni eklenen paketler
+hdbscan
+nltk
+sentence-transformers 
