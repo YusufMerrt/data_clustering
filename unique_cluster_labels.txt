@@ -1,0 +1,335 @@
+Benzersiz Cluster Label Değerleri:
+==================================================
+- AEG ABE6822VAF Integrated
+- AEG AGE62526NW White
+- AEG L6FBI741N
+- AEG SCB51421LS Integrated
+- AEG SCE8182VNC Integrated
+- AMD FX-6350 3.9GHz  Bax
+- AMD FX-6350 3.9GHz  Box
+- AMD Third-Generation Opteron 8350 2.0GHz Socket F 1000MHz bus Tray
+- Akai A24003 Silver
+- Akai A24006R Red
+- Amazon BMOG25LIXH Stainless Steel
+- Amica FZ041.3 White
+- Amica FZ0984 White
+- Apple iPhone 6 Plus 16GB
+- Apple iPhone 6S 64GB
+- Apple iPhone 7 Plus (PRODUCT) RED Special Edition 256GB
+- Apple iPhone 8 256GB
+- Apple iPhone SE 16GB
+- Beko BC73F White
+- Beko Beko CSG1582B Black
+- Beko DIN14C11 Integrated
+- Beko FSG1545W White
+- Beko LCSM1545W White
+- Beko UFF584APW White
+- Beko UL483APW White
+- Beko WY85242W
+- Belling FMR2080S Black
+- Belling FW612
+- Blackberry Curve 8520
+- Blackberry Pearl 9105
+- Blackview A7 Pro Dual SIM
+- Blomberg LRF285411
+- Bosch BFL523MW0B White
+- Bosch BFL554MS0B Stainless Steel
+- Bosch BFR634GS1 Stainless Steel
+- Bosch CMA583MS0B Stainless Steel
+- Bosch GIN81AE30G Integrated
+- Bosch GIV21AF30G Integrated
+- Bosch GSN29VW3VG White
+- Bosch GSN36VW3VG White
+- Bosch KGE36VW4A White
+- Bosch KGN33NW3AG White
+- Bosch KGN34NW3AG White
+- Bosch KGN39AL32G Stainless Steel
+- Bosch KGN39AW32G White
+- Bosch KGN49XI40 Stainless Steel
+- Bosch KIL24V60 Integrated
+- Bosch KIL24X30 Integrated
+- Bosch KIL32AD40 Integrated
+- Bosch KIR31AD40 Integrated
+- Bosch KIV85VS30G Integrated
+- Bosch KMF40AI20 Stainless Steel
+- Bosch KSV29NW30G White
+- Bosch KSV36NW3PG White
+- Bosch KUL15A65 White Integrated
+- Bosch SBV25AX00E Integrated
+- Bosch SBV46GX01E Integrated
+- Bosch SMI24AW00E White
+- Bosch SMI46GS01E Stainless Steel
+- Bosch SMI46MS01E Stainless Steel
+- Bosch SMI68TS06E Stainless Steel
+- Bosch SMI88TS00G Stainless Steel
+- Bosch SMS40C32GB White
+- Bosch SMS46MW00G White
+- Bosch SMV68MD00G Integrated
+- Bosch SPI66TS01E Stainless Steel
+- Bosch WAN28150GB
+- Bosch WAT28420GB
+- Bosch WAW325E27
+- CDA FF121 White
+- CDA FW253 Integrated
+- CDA FW582 Integrated
+- Candy BWM 1410PH7/1-80
+- Canon EOS 6D Mark II + 24-105mm IS STM
+- Canon EOS 77D
+- Canon EOS 80D + 18-55mm IS STM
+- Caple RiF89 Integrated
+- Cello C43227FT2
+- Daewoo KOR9GBP Black
+- De Dietrich DKC7340A Black
+- De Dietrich DRS1133J Integrated
+- Denver GSP-130
+- DigiHome 24273SFVPT2HD
+- Doogee BL7000 Dual SIM
+- Doro 2414
+- Doro Secure 580
+- Exquisit MWED8323.3S Stainless Steel
+- Fisher & Paykel E402BRXFD4 Stainless Steel
+- Fisher & Paykel RF522BRPX6 Stainless Steel
+- Fridgemaster MTL55300 White
+- Fridgemaster MUL49102B Black
+- Fujifilm X-A5
+- Fujifilm X-E1
+- Fujifilm X-T100
+- Fujifilm X-T20 + 50mm
+- Fujitsu Intel Xeon E5-2620 2GHz Upgrade Tray
+- Fujitsu Intel Xeon E5-2650 2GHz Upgrade Tray
+- Gorenje OBRB153R Red
+- Gorenje ORB153BK Black
+- Gorenje ORB153X-L Grey
+- Gorenje RI4092AW Integrated
+- HP AMD Opteron 2376HE 2.3GHz Socket F 1000MHz bus Upgrade Tray
+- HP AMD Opteron 2427 Six-Core 2.20GHz Socket F 2400MHz bus Upgrade Tray
+- HP AMD Opteron 2431 Six-Core 2.4GHz Socket F 2400MHz bus Upgrade Tray
+- HP AMD Opteron 2435 Six-Core 2.6GHz Socket F 2400MHz bus Upgrade Tray
+- HP AMD Opteron 6172 2.1GHz Upgrade Tray
+- HP AMD Opteron 8425 HE 2.1GHz Socket F 4800MHz bus Upgrade Tray
+- HP Intel Xeon DP E5506 2.13GHz Socket 1366 800MHz bus Upgrade Tray
+- HP Intel Xeon DP Quad-core L5410 2.33GHz Socket 771 1333MHz bus Upgrade Tray
+- HP Intel Xeon E5-2450 2.1GHz Upgrade Tray
+- HP Intel Xeon E5-2643 3.3GHz Upgrade Tray
+- HP Intel Xeon E5606 2.13GHz Socket 1366 Upgrade Tray
+- HP Intel Xeon E5620 2.4GHz Upgrade Tray
+- HTC Desire 12 32GB Dual SIM
+- Haier A2FE635CRJ Red
+- Honeywell Dolphin CT50
+- Hoover DXOA147LW3
+- Hoover DXOC 68C3B
+- Hoover HCF 5172WK White
+- Hoover HDP2D1049W White
+- Hoover HVBF5192BHK
+- Hotpoint FFU3DGK Black
+- Hotpoint FFU3DX Stainless Steel
+- Hotpoint HFC3C26WSV Silver
+- Hotpoint HFF31014 White
+- Hotpoint LECO7FF2WH White
+- Hotpoint LTF 8B019 Integrated
+- Hotpoint MWH 2621 MB Black
+- Hotpoint MWH 338 SX Stainless Steel
+- Hotpoint RPD10457J
+- Hotpoint SIUF22111G Grey
+- Hotpoint WMAQF721G
+- Hotpoint WMBF742P
+- Hotpoint WMBF763P
+- Hotpoint WMXTF742P
+- Hotpoint WMXTF942G
+- Hotpoint XAL85T1IXWTD Stainless Steel
+- Hotpoint XEX95T1IWZ White
+- Huawei Honor 7C Dual SIM
+- Huawei Y5
+- Igenix IG2095 White
+- Indesit BWD71453
+- Indesit BWE91484XK
+- Indesit IWDC6143
+- Indesit LR6S1W White
+- Intel Celeron G3900T 2.6GHz  Tray
+- Intel Celeron G3950 3.0GHz  Box
+- Intel Core I7-620UM 1.06GHz Socket 479 Tray
+- Intel Core i3 4100M 2.5GHz Tray
+- Intel Core i3-7100T 3.4GHz  Box
+- Intel Core i5-3210M 2.5GHz Tray
+- Intel Core i5-4460 3.2GHz  Box
+- Intel Core i5-4590 3.3GHz  Box
+- Intel Core i7-8700 3.2GHz Tray
+- Intel Xeon E3-1220V5 3 GHz  Box
+- Intel Xeon E3-1220V5 3.00Ghz Tray
+- Intel Xeon E3-1230 v3 3.3GHz Tray
+- Intel Xeon E3-1231 v3 3.4GHz Tray
+- Intel Xeon E5-1650 V4 3 6 GHz Tray
+- Intel Xeon E5-2407 v2 2.4GHz Tray
+- Intel Xeon E5-2660 v4 2GHz Tray
+- Intel Xeon E5-4610 2.4GHz  Box
+- Intel Xeon E5647 2.93GHz Socket 1366 3200MHz bus Tray
+- Intel Xeon E7-4820V3 1.9GHz
+- Intel Xeon E7-4890 v2 2.8GHz Tray
+- Intel Xeon L5420 2.5GHz Socket 771 1333MHz bus Tray
+- Intel Xeon Silver 4109T 2GHz Tray
+- Intel Xeon X5550 2.66GHz Socket 1366 3200MHz bus Tray
+- Intel Xeon X5650 2.66GHz Socket 1366 Tray
+- Intel Xeon X5670 2.93GHz Socket 1366 Tray
+- Kenxinda V7 Dual SIM
+- Kodak Astro Zoom AZ401
+- LG 29MT49DF
+- LG 43UK6750PLD
+- LG 43UK6950PLB
+- LG 49LJ594V
+- LG 49LK6100PLB
+- LG 49LV340C
+- LG 55SK8100PLA
+- LG 55UK6750
+- LG F12C3QD
+- LG F4J6TM1W
+- LG FH495BDN8
+- LG FH4A8JDS2
+- LG G Flex 2 16GB
+- LG K11
+- LG OLED65E8PLA
+- Lec L5511B Black
+- Lec R5511S Silver Silver
+- Lenco TFT-1028
+- Liebherr CBNP 4858 Premium BioFresh NoFrost White
+- Liebherr CBNPgw 4855 White
+- Liebherr CN 3915 White
+- Liebherr CN 4015 White
+- Liebherr CP4023 White
+- Liebherr CTP 2521 White
+- Liebherr CUsl 2311 Comfort Stainless Steel
+- Liebherr G 1213 White
+- Liebherr ICUS 3324 Comfort Integrated
+- Liebherr SIGN 3556 Premium NoFrost Integrated
+- Liebherr UIG1313 White
+- M-horse Pure 1 Dual SIM
+- Maxcom Comfort MM818 Dual SIM
+- Maxcom MM720
+- Miele F12020S White
+- Miele G 6730 SC White
+- Miele G4203i CLST Stainless Steel
+- Miele K 12020 S-1 White White
+- Miele K 37222 iD Integrated
+- Miele K 37272 iD Integrated
+- Miele K12012S White
+- Miele WCI660 TDos XL
+- Miele WDD030 EcoPlus & Comfort
+- Miele WKF121
+- Miele WTF130 WPM PWash 2.0
+- Montpellier MAB148K Black
+- Montpellier MAB340R Red
+- Montpellier MDI600 Integrated
+- Montpellier MW6100P
+- Moto C
+- MyAppliances ART28606 White
+- Neff G1524X7GB Integrated
+- Neff H12WE60N0G Stainless Steel
+- Neff KI2422S30G Integrated
+- Neff KI7862S30 Integrated
+- Neff KI8413D40 Integrated
+- New World INDW45 Integrated
+- Nikon D5300
+- Nikon D810 + 24-120mm 4.0G ED VR
+- Nikon Df
+- Nokia 216
+- Nokia 3 Dual SIM
+- Nokia 6300
+- Nokia 8 128GB Dual SIM
+- Nokia Lumia 530
+- Nordmende RFF332WHAPlus White
+- Olympus E-M10 Mark III + 14-42mm EZ + 40-150mm R
+- Olympus PEN-F + 14-42mm EZ
+- OnePlus 5 128GB Dual SIM
+- Panasonic NN-GD371S Stainless Steel
+- Panasonic NRBN34AX2B Stainless Steel
+- Pentax K-70 + 18-50mm + 50mm
+- Praktica Luxmedia Z250
+- Russell Hobbs RHM2076B Black
+- Russell Hobbs RHM3003B Black
+- Russell Hobbs RHMM701R Red
+- Samsung BRB260000WW Integrated
+- Samsung DV80K6010CW
+- Samsung Galaxy A3 SM-A320F
+- Samsung Galaxy J5 SM-J500 Dual SIM
+- Samsung QE65Q9F
+- Samsung RB36J8799S4 Stainless Steel
+- Samsung RS58K6387SL
+- Samsung UE49KS8000
+- Samsung UE49MU6402
+- Samsung UE49MU6500
+- Samsung UE55MU6120
+- Samsung UE55MU9000
+- Samsung UE65MU6200
+- Samsung WD80K5B10OW
+- Samsung WF70F5E3W4W
+- Samsung WW80J5556MW
+- Samsung WW80M645OPM/EU
+- Sharp Aquos LC-32DHF4041K
+- Sharp R270SLM Silver
+- Sharp R344SLM Silver
+- Sharp R360KM
+- Sharp R658WM White
+- Sharp R959SLMAA Silver
+- Sharp SJ-F1526E0I Stainless Steel
+- Siemens CF634AGS1B Stainless Steel
+- Siemens GI18DA30 Integrated
+- Siemens GS29NVW3P White
+- Siemens GS36NAI31 Stainless Steel
+- Siemens GS36NVX3PG Black
+- Siemens GS58NAW41 White
+- Siemens GS58NFW40 White
+- Siemens HM633GNS1 Stainless Steel
+- Siemens KA92DAI30 Stainless Steel
+- Siemens KG34NVI35G Stainless Steel
+- Siemens KG36DVI30G Stainless Steel
+- Siemens KG36NHI32 Stainless Steel
+- Siemens KG39NXL45 Stainless Steel
+- Siemens KG39VVI31 Stainless Steel
+- Siemens KI41RAD40 Integrated
+- Siemens KI77SAD40 Integrated
+- Siemens KI82LVS30G Integrated
+- Siemens KS36VAI41G Stainless Steel
+- Siemens SN436S01ME Stainless Steel
+- Siemens SN636X01CE Integrated
+- Siemens SR256W01TE White
+- Siemens WM12N190GB
+- Siemens WM14T790GB
+- Siemens WM14W750GB
+- Smeg CV31X2PNE Stainless Steel
+- Smeg DF6FABR2 Red
+- Smeg DF6FABRD Red
+- Smeg DI410T Integrated Integrated
+- Smeg FA8003AOS Anthracite
+- Smeg FAB10HRR Red
+- Smeg FAB30RNE1 Black
+- Smeg FAB32RNN Black
+- Smeg FAB32RVN1 Green
+- Smeg FAB5RSV Silver
+- Smeg S7192CS2P Integrated
+- Smeg SF4120M Stainless Steel
+- Smeg ST867-3 Integrated
+- Smeg UKC7172NP Integrated
+- Sony Alpha 6000 + 16-50mm OSS
+- Sony Alpha 99 II
+- Sony Bravia KD-49XE7002
+- Sony Bravia KD-55XE8596B
+- Sony Bravia KDL-32WD755B
+- Sony Cyber-shot DSC-RX10 II
+- Sony KD-49XF8596
+- Sony KD-65AF9
+- Sony Xperia XZ2
+- Sony Xperia Z5 Premium
+- Statesman TF160LW White
+- Swan SM22070BN Black
+- UleFone X Dual SIM
+- Whirlpool ARG 108/18 A+/RE Integrated
+- Whirlpool FWG81496 S
+- Whirlpool WFO 3T323 6P UK White
+- Whirlpool WFO3P33DLUK White
+- Wiko Jerry 2 Dual SIM
+- Zanussi ZDT24001FA Integrated
+- Zanussi ZDT26022FA Integrated
+- Zanussi ZFC14500WA White
+- Zanussi ZRB36104XA Stainless Steel
+- Zanussi ZRB38426XV Grey
+- Zanussi ZWF01483WH
+- Zte Blade L2
